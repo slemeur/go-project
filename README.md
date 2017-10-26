@@ -4,4 +4,4 @@ Hello World Go Example
 
 Run
 
-go run ./go-project/hello.go```
+go run ./go-project/hello.go
